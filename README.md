@@ -1,10 +1,12 @@
 # Data Mining
 All software will be developed using R in conjunction with rStudio
-<ul><b>In progress</b>
+<b>In progress</b>
+<ul>
   <li>Naive Bayes Theorem implementation</li>
 </ul>
 
-<ul><b>Completed</b>
+<b>Completed</b>
+<ul>
   <li>Syntax basics</li>
   <li>Preprocessing data</li>
   <li>Calculation of Gini</li>
