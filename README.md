@@ -5,6 +5,7 @@ All software will be developed using R in conjunction with rStudio
 </ul>
 
 <ul><b>Completed</b>
+  <li>Syntax basics</li>
   <li>Preprocessing data</li>
   <li>Calculation of Gini</li>
   <li>Creation of decision tree classifiers</li>
