@@ -1,0 +1,27 @@
+	bad weather	timeOfDay	airline	late
+1	y	m	u	y
+2	y	m	u	y
+3	n	m	u	n
+4	n	m	u	n
+5	y	m	u	y
+6	n	a	u	y
+7	n	a	u	n
+8	n	m	u	y
+9	n	a	u	y
+10	y	m	d	n
+11	y	a	d	n
+12	n	a	d	n
+13	y	a	d	n
+14	n	a	d	n
+15	y	m	d	n
+16	n	a	d	n
+17	n	m	u	n
+18	y	a	u	y
+19	y	a	u	y
+20	n	a	d	n
+21	n	m	d	n
+22	y	a	d	y
+23	n	m	u	n
+24	y	m	u	y
+
+
