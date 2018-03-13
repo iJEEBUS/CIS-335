@@ -1,3 +1,14 @@
+###############################################################################
+# An R script that will discover the priors likelihoods of classifications
+# based on those priors for categorical data in part 1. Part 2 uses numeric
+# data and discovers the priors for both classes, while finding the means
+# and standard deviations of each attribute depending on their class (+ | -).
+#
+# @author Ronald Rounsifer
+# @version 1.1
+# @date 3/12/2018
+###############################################################################
+
 ## 1 
 # Clear and load in the new data
 rm(list = ls())
